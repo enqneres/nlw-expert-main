@@ -35,7 +35,7 @@
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/enqneres/nlw-expert.git
+$ git clone https://github.com/enqneres/nlw-expert-main.git
 
 # Vá até a raiz do prejto
 $ cd /local-do-projeto
@@ -100,11 +100,25 @@ Registrando o usuário
 
 <img src="/img/Registro.jpg" />
 
+Caso o usuário tente se registrar novamente, vai retornar uma mensagem
+
+<img src="/img/Registro2.jpg" />
+
+Verifica se o usuário já fez a prova
+
+<img src="/img/Verificacao.jpg" />
+
+<img src="/img/Verificacao2.jpg" />
+
+Ranking Top 10
+
+<img src="/img/Ranking.jpg" />
+
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ## Autor
 
 <p>Feito por <a href="https://github.com/enqneres" title="Enoque Neres"><b>Enoque Neres</b></sub></a> ✌🏼 Entre em contato!</p>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fenoque-neres%2F?style=for-the-badge&logo=linkedin&label=LinkedIn&color=%23126BC4">
+<img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fenoqueneres-%2F?style=for-the-badge&logo=linkedin&label=LinkedIn&color=%23126BC4">
 
