@@ -98,7 +98,7 @@ $ mvn spring-boot:run
 
 Registrando o usuário
 
-<img src="https://github.com/enqneres/nlw-expert-main/imgs/Registro.jpg" />
+<img src="/img/Registro.jpg" />
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
